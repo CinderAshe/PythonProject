@@ -1,55 +1,51 @@
-import tkinter as tk
 import requests
 import openpyxl
+import os
+import tkinter as tk
+from tkinter import messagebox
 
-def search_and_save_to_excel():
-    user_input = entry.get()
+def search_card():
+    card_name = entry_card_name.get()
     
-    # Make a request to the card endpoint with the user input
-    url = f"https://api.scryfall.com/cards/search/?q={user_input}"
+    # Search for the card on Scryfall
+    url = f"https://api.scryfall.com/cards/named?fuzzy={card_name}"
     response = requests.get(url)
-    
-    if response.status_code == 200:
-        data = response.json()
-        
-        # Save the data to an Excel file
+    data = response.json()
+
+    # Extracting relevant information
+    name = data.get('name', '')
+    colors = ', '.join(data.get('colors', []))
+    card_url = data.get('scryfall_uri', '')
+
+    # Check if the Excel file already exists
+    file_name = "MyCardLibrary.xlsx"
+    if not os.path.exists(file_name):
         wb = openpyxl.Workbook()
-        sheet = wb.active
-        sheet.title = "Search Results"
-        
-        # Write headers to the Excel file
-        headers = ["Card Name", "Color", "Mana Cost", "Type Line"]
-        sheet.append(headers)
-        
-        # Extract and record specific fields into the Excel file
-        for item in data:
-            card_name = item.get("name", "")
-            colors = ", ".join(item.get("colors", [])) if isinstance(item.get("colors"), list) else ""
-            mana_cost = item.get("mana_cost", "")
-            type_line = item.get("type_line", "")
-            row_data = [card_name, colors, mana_cost, type_line]
-            sheet.append(row_data)
-        
-        wb.save("search_results.xlsx")
-        print("Search results saved to search_results.xlsx")
+        ws = wb.active
+        ws.title = "Card Data"
+        ws.append(["Card Name", "Colors", "URL"])
     else:
-        print("Failed to retrieve search results from the card endpoint")
+        wb = openpyxl.load_workbook(file_name)
+        ws = wb.active
 
-# Create the main window
+    # Data
+    ws.append([name, colors, card_url])
+
+    # Save the Excel file
+    wb.save(file_name)
+    messagebox.showinfo("Success", f"Data saved to {file_name}")
+
+# Create GUI
 root = tk.Tk()
-root.title("Search Cards and Save to Excel")
+root.title("Card Search and Save")
 
-# Create a label
-label = tk.Label(root, text="Please enter the card name to search:")
-label.pack()
+label_card_name = tk.Label(root, text="Enter the card name:")
+label_card_name.grid(row=0, column=0, padx=10, pady=10)
 
-# Create an entry widget for user input
-entry = tk.Entry(root)
-entry.pack()
+entry_card_name = tk.Entry(root)
+entry_card_name.grid(row=0, column=1, padx=10, pady=10)
 
-# Create a button to search the cards endpoint and save to Excel
-search_button = tk.Button(root, text="Search Cards and Save to Excel", command=search_and_save_to_excel)
-search_button.pack()
+btn_search = tk.Button(root, text="Search and Save", command=search_card)
+btn_search.grid(row=1, column=0, columnspan=2, padx=10, pady=10)
 
-# Start the main event loop
 root.mainloop()
