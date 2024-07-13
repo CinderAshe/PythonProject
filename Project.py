@@ -14,7 +14,7 @@ def search_card():
 
     # Extracting relevant information
     name = data.get('name', '')
-    colors = ', '.join(data.get('colors', []))
+    colors = ', '.join(data.get('colors', [])) if data.get('colors') else ''
     card_url = data.get('scryfall_uri', '')
 
     # Check if the Excel file already exists
@@ -23,13 +23,20 @@ def search_card():
         wb = openpyxl.Workbook()
         ws = wb.active
         ws.title = "Card Data"
-        ws.append(["Card Name", "Colors", "URL"])
+        ws.append(["Card Name", "Colors", "URL", "Count"])
     else:
         wb = openpyxl.load_workbook(file_name)
         ws = wb.active
 
-    # Data
-    ws.append([name, colors, card_url])
+    # Check if the card already exists in the file
+    card_count = 0
+    for row in ws.iter_rows(min_row=2, max_row=ws.max_row, min_col=1, max_col=1):
+        if row[0].value == name:
+            card_count = ws.cell(row=row[0].row, column=4).value
+            ws.cell(row=row[0].row, column=4, value=card_count + 1)
+            break
+    else:
+        ws.append([name, colors, card_url, 1])
 
     # Save the Excel file
     wb.save(file_name)
