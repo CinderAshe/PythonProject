@@ -3,18 +3,17 @@ import openpyxl
 import os
 from docx import Document
 
-file_path = ("C:\\Users\\Cinder\\OneDrive\\Documents\\Python Assignements\\MyMagicCardList.docx")
+file_path = "C:\\Users\\Cinder\\OneDrive\\Documents\\Python Assignements\\MyMagicCardList.docx"
 
 def search_items_in_docx(file_path, search_function):
     doc = Document(file_path)
 
     for para in doc.paragraphs:
-        for card_name in para.text.split():
-            search_function(card_name)
+        for item in para.text.split():
+            search_function(item)
 
-
-def search_function():
-    card_name = search_items_in_docx(card_name, search_function)
+def search_card(item):
+    card_name = item  # Get the card name from the item
     
     # Search for the card on Scryfall
     url = f"https://api.scryfall.com/cards/named?fuzzy={card_name}"
@@ -50,4 +49,6 @@ def search_function():
     # Save the Excel file
     wb.save(file_name)
 
+# Pass the search_card function to search_items_in_docx
+search_items_in_docx(file_path, search_card)
 
