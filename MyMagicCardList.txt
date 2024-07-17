@@ -1,0 +1,621 @@
+Tarmogoyf
+Force of Will
+Jace, the Mind Sculptor
+Gaea's Cradle
+Serra Angel
+Lightning Bolt
+Black Lotus
+Doomsday
+Swords to Plowshares
+Dark Ritual
+Birds of Paradise
+Counterspell
+Mana Drain
+Karn Liberated
+Elvish Mystic
+Thoughtseize
+Snapcaster Mage
+Path to Exile
+Sol Ring
+Wrath of God
+Noble Hierarch
+Liliana of the Veil
+Time Walk
+Blood Moon
+Goblin Guide
+Cryptic Command
+Emrakul, the Aeons Torn
+Aether Vial
+Ancestral Recall
+Deathrite Shaman
+True-Name Nemesis
+Mox Pearl
+Forcefield
+Tinker
+Leyline of Sanctity
+Restoration Angel
+Gilded Lotus
+Phyrexian Obliterator
+Abrupt Decay
+Demonic Tutor
+Scapeshift
+Mox Jet
+Thragtusk
+Supreme Verdict
+Chandra, Torch of Defiance
+Phyrexian Arena
+Wasteland
+Primeval Titan
+Lotus Cobra
+Ugin, the Spirit Dragon
+Baneslayer Angel
+Collected Company
+Sneak Attack
+Vendilion Clique
+Raging Ravine
+Toxic Deluge
+Wheel of Fortune
+Consecrated Sphinx
+Mana Crypt
+Entomb
+Azusa, Lost but Seeking
+Living End
+Show and Tell
+Hymn to Tourach
+Cavern of Souls
+Delver of Secrets
+Leyline of the Void
+Thought-Knot Seer
+Craterhoof Behemoth
+Kitchen Finks
+Vampiric Tutor
+Channel
+Mox Emerald
+Through the Breach
+Tarmogoyf (yes, another one!)
+Shardless Agent
+Noble Hierarch
+Geist of Saint Traft
+Karn, Scion of Urza
+Jace, Vryn's Prodigy
+Engineered Explosives
+Bloodbraid Elf
+Spell Pierce
+Doubling Season
+Remand
+Rishadan Port
+Mana Vault
+Exploration
+Daze
+Karn, the Great Creator
+Pact of Negation
+Celestial Colonnade
+Elspeth, Sun's Champion
+The Tabernacle at Pendrell Vale
+Serum Visions
+Meddling Mage
+Cyclonic Rift
+Jace, Wielder of Mysteries
+Academy Ruins
+Mutavault
+Goblin Guide
+Ancestral Recall
+Karn Liberated
+Cryptic Command
+Dark Confidant
+Tarmogoyf
+Liliana of the Veil
+Lightning Bolt
+Force of Will
+Birds of Paradise
+Jace, the Mind Sculptor
+Path to Exile
+Sol Ring
+Snapcaster Mage
+Gaea's Cradle
+Thoughtseize
+Emrakul, the Aeons Torn
+Counterspell
+Sword of Fire and Ice
+Blood Moon
+Aether Vial
+Noble Hierarch
+Wrath of God
+Mox Jet
+Karn, Scion of Urza
+Demonic Tutor
+Tinker
+True-Name Nemesis
+Mox Pearl
+Scalding Tarn
+Abrupt Decay
+Ugin, the Spirit Dragon
+Raging Ravine
+Time Walk
+Restoration Angel
+Phyrexian Obliterator
+Lotus Cobra
+Chandra, Torch of Defiance
+Phyrexian Arena
+Sneak Attack
+Thragtusk
+Consecrated Sphinx
+Gilded Lotus
+Forcefield
+Mox Sapphire
+Primeval Titan
+Kitchen Finks
+Supreme Verdict
+Leyline of Sanctity
+Entomb
+Wheel of Fortune
+Baneslayer Angel
+Collected Company
+Wasteland
+Toxic Deluge
+Vendilion Clique
+Craterhoof Behemoth
+Spell Pierce
+Thought-Knot Seer
+Living End
+Cavern of Souls
+Azusa, Lost but Seeking
+Geist of Saint Traft
+Hymn to Tourach
+Delver of Secrets
+Leyline of the Void
+Show and Tell
+Channel
+Through the Breach
+Vampiric Tutor
+Lotus Petal
+Doubling Season
+Daze
+Engineered Explosives
+Karn, the Great Creator
+Pact of Negation
+Tarmogoyf (another one!)
+Shardless Agent
+Rishadan Port
+Celestial Colonnade
+Elspeth, Sun's Champion
+Bloodbraid Elf
+Remand
+Serum Visions
+Academy Ruins
+Mutavault
+Jace, Vryn's Prodigy
+Cyclonic Rift
+Meddling Mage
+Mana Drain
+The Tabernacle at Pendrell Vale
+Serum Powder
+Engineered Plague
+Inquisition of Kozilek
+Cranial Extraction
+Warren Instigator
+Plague Engineer
+Stifle
+Stoneforge Mystic
+Gempalm Incinerator
+Tarmogoyf
+Force of Will
+Jace, the Mind Sculptor
+Gaea's Cradle
+Serra Angel
+Lightning Bolt
+Black Lotus
+Doomsday
+Swords to Plowshares
+Dark Ritual
+Birds of Paradise
+Counterspell
+Mana Drain
+Karn Liberated
+Elvish Mystic
+Thoughtseize
+Snapcaster Mage
+Path to Exile
+Sol Ring
+Wrath of God
+Noble Hierarch
+Liliana of the Veil
+Time Walk
+Blood Moon
+Goblin Guide
+Cryptic Command
+Emrakul, the Aeons Torn
+Aether Vial
+Ancestral Recall
+Deathrite Shaman
+True-Name Nemesis
+Mox Pearl
+Forcefield
+Tinker
+Leyline of Sanctity
+Restoration Angel
+Gilded Lotus
+Phyrexian Obliterator
+Abrupt Decay
+Demonic Tutor
+Scapeshift
+Mox Jet
+Thragtusk
+Supreme Verdict
+Chandra, Torch of Defiance
+Phyrexian Arena
+Wasteland
+Primeval Titan
+Lotus Cobra
+Ugin, the Spirit Dragon
+Baneslayer Angel
+Collected Company
+Sneak Attack
+Vendilion Clique
+Raging Ravine
+Toxic Deluge
+Wheel of Fortune
+Consecrated Sphinx
+Mana Crypt
+Entomb
+Azusa, Lost but Seeking
+Living End
+Show and Tell
+Hymn to Tourach
+Cavern of Souls
+Delver of Secrets
+Leyline of the Void
+Thought-Knot Seer
+Craterhoof Behemoth
+Kitchen Finks
+Vampiric Tutor
+Channel
+Mox Emerald
+Through the Breach
+Tarmogoyf (yes, another one!)
+Shardless Agent
+Noble Hierarch
+Geist of Saint Traft
+Karn, Scion of Urza
+Jace, Vryn's Prodigy
+Engineered Explosives
+Bloodbraid Elf
+Spell Pierce
+Doubling Season
+Remand
+Rishadan Port
+Mana Vault
+Exploration
+Daze
+Karn, the Great Creator
+Pact of Negation
+Celestial Colonnade
+Elspeth, Sun's Champion
+The Tabernacle at Pendrell Vale
+Serum Visions
+Meddling Mage
+Cyclonic Rift
+Jace, Wielder of Mysteries
+Academy Ruins
+Mutavault
+Karn, the Great Creator
+Dark Confidant
+Emrakul, the Aeons Torn
+Teferi, Hero of Dominaria
+Lightning Bolt
+Snapcaster Mage
+Thoughtseize
+Tarmogoyf
+Force of Will
+Jace, the Mind Sculptor
+Mox Opal
+Supreme Verdict
+Liliana of the Veil
+Noble Hierarch
+Scapeshift
+Blood Moon
+Ugin, the Spirit Dragon
+Cryptic Command
+Tinker
+Gaea's Cradle
+Path to Exile
+Mana Drain
+Karn Liberated
+Collected Company
+Birds of Paradise
+True-Name Nemesis
+Sol Ring
+Abrupt Decay
+Baneslayer Angel
+Dark Ritual
+Ancestral Recall
+Phyrexian Obliterator
+Primeval Titan
+Show and Tell
+Gilded Lotus
+Phyrexian Arena
+Wasteland
+Sneak Attack
+Leyline of Sanctity
+Chandra, Torch of Defiance
+Demonic Tutor
+Restoration Angel
+Lotus Cobra
+Mox Pearl
+Consecrated Sphinx
+Kitchen Finks
+Entomb
+Wheel of Fortune
+Raging Ravine
+Elvish Mystic
+Tarmogoyf (yes, another one!)
+Vendilion Clique
+Toxic Deluge
+Spell Pierce
+Engineered Explosives
+Channel
+Thought-Knot Seer
+Cavern of Souls
+Living End
+Mana Crypt
+Geist of Saint Traft
+Azusa, Lost but Seeking
+Hymn to Tourach
+Delver of Secrets
+Leyline of the Void
+Daze
+Karn, Scion of Urza
+Craterhoof Behemoth
+Meddling Mage
+Celestial Colonnade
+Through the Breach
+Vampiric Tutor
+Doubling Season
+Mox Jet
+Shardless Agent
+Pact of Negation
+Serum Visions
+Noble Hierarch (again!)
+Elspeth, Sun's Champion
+The Tabernacle at Pendrell Vale
+Remand
+Academy Ruins
+Cyclonic Rift
+Jace, Vryn's Prodigy
+Lotus Petal
+Rishadan Port
+Engineered Plague
+Gempalm Incinerator
+Inquisition of Kozilek
+Warren Instigator
+Stifle
+Stoneforge Mystic
+Cranial Extraction
+Serum Powder
+Plague Engineer
+Gemstone Caverns
+Eladamri's Call
+Horizon Canopy
+Ethersworn Canonist
+Yawgmoth's Will
+Jace, the Mind Sculptor
+Force of Will
+Tarmogoyf
+Black Lotus
+Karn Liberated
+Lightning Bolt
+Emrakul, the Aeons Torn
+Snapcaster Mage
+Swords to Plowshares
+Gaea's Cradle
+Liliana of the Veil
+Path to Exile
+Sol Ring
+Thoughtseize
+Ancestral Recall
+Noble Hierarch
+Dark Confidant
+Cryptic Command
+Time Walk
+Mox Jet
+Demonic Tutor
+True-Name Nemesis
+Mana Drain
+Restoration Angel
+Ugin, the Spirit Dragon
+Blood Moon
+Vendilion Clique
+Lotus Cobra
+Scapeshift
+Supreme Verdict
+Aether Vial
+Phyrexian Obliterator
+Abrupt Decay
+Geist of Saint Traft
+Wasteland
+Primeval Titan
+Chandra, Torch of Defiance
+Consecrated Sphinx
+Sneak Attack
+Phyrexian Arena
+Wheel of Fortune
+Baneslayer Angel
+Collected Company
+Toxic Deluge
+Kitchen Finks
+Show and Tell
+Leyline of Sanctity
+Gilded Lotus
+Raging Ravine
+Elvish Mystic
+Dark Ritual
+Thragtusk
+Living End
+Daze
+Karn, Scion of Urza
+Channel
+Thought-Knot Seer
+Cavern of Souls
+Azusa, Lost but Seeking
+Hymn to Tourach
+Delver of Secrets
+Leyline of the Void
+Mox Pearl
+Entomb
+Craterhoof Behemoth
+Celestial Colonnade
+Meddling Mage
+Engineered Explosives
+Pact of Negation
+Shardless Agent
+Serum Visions
+Lotus Petal
+Horizon Canopy
+Stoneforge Mystic
+Elspeth, Sun's Champion
+Cyclonic Rift
+Academy Ruins
+Doubling Season
+Remand
+The Tabernacle at Pendrell Vale
+Serum Powder
+Jace, Vryn's Prodigy
+Engineered Plague
+Gempalm Incinerator
+Inquisition of Kozilek
+Warren Instigator
+Stifle
+Plague Engineer
+Gemstone Caverns
+Yawgmoth's Will
+Eladamri's Call
+Ethersworn Canonist
+Cranial Extraction
+Gemstone Mine
+Elvish Spirit Guide
+Barren Moor
+Darksteel Citadel
+Grapeshot
+Gitaxian Probe
+Leyline of the Meek
+Pack Rat
+Relentless Rats
+Chittering Rats
+Typhoid Rats
+Marrow-Gnawer
+Nezumi Graverobber
+Ravenous Rats
+Burglar Rat
+Plague Rats
+Ogre Slumlord
+Swarm of Rats
+Ink-Eyes, Servant of Oni
+Ratcatcher
+Pestilence Rats
+Throat Slitter
+Crypt Rats
+Skullsnatcher
+Nezumi Shortfang
+Patron of the Nezumi
+Locust Miser
+Rat Colony
+Nezumi Cutthroat
+Pestilent Souleater
+Nezumi Ronin
+Squeaking Pie Sneak
+Nezumi Shadow-Watcher
+Nezumi Bone-Reader
+Pestilence
+Deathbringer Thoctar
+Rats' Feast
+Pack Rat
+Relentless Rats
+Chittering Rats
+Typhoid Rats
+Marrow-Gnawer
+Nezumi Graverobber
+Ravenous Rats
+Burglar Rat
+Plague Rats
+Ogre Slumlord
+Swarm of Rats
+Ink-Eyes, Servant of Oni
+Ratcatcher
+Pestilence Rats
+Throat Slitter
+Crypt Rats
+Skullsnatcher
+Nezumi Shortfang
+Patron of the Nezumi
+Locust Miser
+Rat Colony
+Nezumi Cutthroat
+Pestilent Souleater
+Nezumi Ronin
+Squeaking Pie Sneak
+Nezumi Shadow-Watcher
+Nezumi Bone-Reader
+Pestilence
+Deathbringer Thoctar
+Rats' Feast
+Grave Titan
+Lord of the Undead
+Crypt Ghast
+Lich Lord of Unx
+Undead Warchief
+Sheoldred, Whispering One
+Ghoulcaller Gisa
+Death Baron
+Phyrexian Obliterator
+Mikaeus, the Unhallowed
+Noxious Ghoul
+Gravecrawler
+Kalitas, Traitor of Ghet 
+Diregraf Captain
+Army of the Damned
+Vengeful Pharaoh
+Gisa and Geralf
+Cemetery Reaper
+Geralf's Messenger
+Skaab Ruinator
+Sorin Markov
+Undead Alchemist
+Rotting Regisaur
+Graveborn Muse
+Necromancer's Stockpile
+Rise from the Grave
+Liliana, Heretical Healer
+Josu Vess, Lich Knight
+Coffin Queen - Creature
+Unbreathing Horde
+Lord of the Accursed
+Liliana's Mastery
+Zombie Apocalypse
+Death's Majesty
+Ghoulcaller's Chant
+Endless Ranks of the Dead
+Plague Belcher
+Endless Obedience
+Corpse Harvester
+Liliana, Death's Majesty
+Scalding Tarn - Land
+Gaea's Cradle
+Maze of Ith
+Cavern of Souls
+Celestial Colonnade
+Rishadan Port
+Dark Depths
+Strip Mine
+Temple Garden
+Misty Rainforest
+Ancient Tomb
+Glimmerpost
+Karplusan Forest
+Flooded Strand
+Mutavault
+Urza's Tower
+Tolarian Academy
+Karakas
+Reflecting Pool
+Windswept Heath
+
